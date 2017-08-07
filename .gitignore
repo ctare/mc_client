@@ -1,2 +1,8 @@
 *
 */
+
+!.gitignore
+!mods/
+!mods/*
+!config/
+!config/*
