@@ -10,3 +10,6 @@
 * inventory tweaks
 * craft guid
 * spawn checker
+* Draconic Evolution
+* Hardcore Ender Expansion
+* Gany's End
