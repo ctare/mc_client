@@ -7,3 +7,4 @@
 * mutant creatures
 * logistics pipes
 * fast craft
+* inventory tweaks
