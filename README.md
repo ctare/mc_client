@@ -12,4 +12,4 @@
 * spawn checker
 * Draconic Evolution
 * Hardcore Ender Expansion
-* Gany's End
+* Gany's End, Nether, Surface
