@@ -1,3 +1,4 @@
 InvTweaks.cfg
-fastcraft.ini
+*.ini
 splash.properties
+!*/*

@@ -6,4 +6,5 @@
 !mods/*
 !config/
 !config/*
+!config/*/
 !README.md
