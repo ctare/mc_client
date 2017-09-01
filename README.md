@@ -6,3 +6,4 @@
 * ars magica2
 * mutant creatures
 * logistics pipes
+* fast craft
