@@ -8,3 +8,5 @@
 * logistics pipes
 * fast craft
 * inventory tweaks
+* craft guid
+* spawn checker
