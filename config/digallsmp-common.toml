@@ -2,7 +2,7 @@
 #net.minecraft.scalar.digall.mod_DigAllSMP
 [configuration]
 	#Boolean: true
-	DestroyUnder = true
+	DestroyUnder = false
 	#Boolean: true
 	StartMode = true
 	#String: "iron_shovel, wooden_shovel, stone_shovel, diamond_shovel, golden_shovel,netherite_shovel"
@@ -17,9 +17,9 @@
 	#String: "mod_digall"
 	channelName = "mod_digall"
 	#Boolean: false
-	AutoCollect = false
+	AutoCollect = true
 	#String: "KEY_G"
 	Key = "KEY_G"
 	#Integer: 11
-	Limiter = 11
+	Limiter = 3
 
